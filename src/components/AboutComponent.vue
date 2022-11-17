@@ -1,6 +1,6 @@
 <template>
     <p>
-        about
+        About
     </p>
 </template>
 <script>

@@ -1,29 +1,39 @@
 <template>
 <nav>
-  <ul>
+    <ul>
 
- 
-    <li><router-link to="/App">Home</router-link> </li>
-    <li><router-link to="/AboutComponent">About</router-link></li>
-    <li><router-link to="/BloggComponent">blogg</router-link></li>
-   <li><router-link to="/MediaComponent"> media</router-link></li>
-   <li><router-link to="/PlayersComponent">players</router-link></li>
-    <li><router-link to="/ScheduleComponent">schedule</router-link></li>
-    <li><router-link to="/ContactComponent">contact</router-link></li>
-  </ul>
+        <li>
+            <router-link to="/App">Home</router-link>
+        </li>
+        <li>
+            <router-link to="/AboutComponent">About</router-link>
+        </li>
+        <li>
+            <router-link to="/BloggComponent">blogg</router-link>
+        </li>
+        <li>
+            <router-link to="/MediaComponent"> media</router-link>
+        </li>
+        <li>
+            <router-link to="/PlayersComponent">Team</router-link>
+        </li>
+        <li>
+            <router-link to="/ScheduleComponent">schedule</router-link>
+        </li>
+        <li>
+            <router-link to="/ContactComponent">contact</router-link>
+        </li>
+        <RouterView />
+    </ul>
 </nav>
-<RouterView />
 </template>
 
-  
 <script>
 export default {
     name: 'HeaderComponent',
 
 }
 </script>
-
-
 
 <style>
 nav {
@@ -43,7 +53,7 @@ ul {
 
 ul:after {
     content: "";
-    
+
     color: rgb(20, 182, 33);
     display: inline-block;
     width: 100%;
@@ -55,7 +65,7 @@ li {
     padding: auto;
     font: size 25px;
     font-style: normal;
-    color:rgb(20, 182, 33); 
+    color: rgb(20, 182, 33);
     text-decoration: none;
 
 }
@@ -78,4 +88,3 @@ body {
     /* Margin bottom by footer height */
 }
 </style>
-
