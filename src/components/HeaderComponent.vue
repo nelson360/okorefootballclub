@@ -3,7 +3,7 @@
     <ul>
 
         <li>
-            <router-link to="/App">Home</router-link>
+            <router-link to="/HomeComponent">Home</router-link>
         </li>
         <li>
             <router-link to="/AboutComponent">About</router-link>

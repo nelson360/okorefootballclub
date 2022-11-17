@@ -1,8 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HeaderComponent from '/src/components/HeaderComponent.vue'
-//import AboutComponent from '/src/AboutComponent.vue'
-//import QualificationComponent from '/src/QualificationComponent.vue'
-//import ContactComponent from '/src/ContactComponent.vue'
+
 import AdminComponent from '/src/MyAdmin/AdminComponent.vue'
 import BloggComponent from '/src/components/BloggComponent.vue'
 import PlayersComponent from '/src/components/PlayersComponent.vue'
@@ -10,6 +8,7 @@ import ScheduleComponent from '/src/components/ScheduleComponent.vue'
 import MediaComponent from '/src/components/MediaComponent.vue'
 import ContactComponent from '/src/components/ContactComponent.vue'
 import AboutComponent from '/src/components/AboutComponent.vue'
+import HomeComponent from '/src/components/HomeComponent.vue'
 
 const routes = [
     {
@@ -72,6 +71,10 @@ const routes = [
         // this generates a separate chunk (about.[hash].js) for this route
         // which is lazy-loaded when the route is visited.
         component: AboutComponent
+        },
+        {
+          path: '/HomeComponent',
+          component: HomeComponent
         }
   
   ]

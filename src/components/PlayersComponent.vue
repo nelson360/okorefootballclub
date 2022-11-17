@@ -110,6 +110,91 @@
         <img alt="mid1" src="/pic/logo.png">
 
     </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name:striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name:striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name: striker<br>
+        number:<br>
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
     <div> coaches</div>
     <div>
         Name: Headcoach<br>
