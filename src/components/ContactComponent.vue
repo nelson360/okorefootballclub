@@ -39,7 +39,8 @@ label {
     font-size: 1rem;
     padding: 0.5em 2em;
 }
-.sublabel{
+
+.sublabel {
     width: 65vh;
     height: 2vw;
     text-align: center;

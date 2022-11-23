@@ -1,7 +1,7 @@
 <template>
 <!-- Footer -->
 <MDBFooter bg="dark" :text="['center', 'white']">
-    
+
     <MDBContainer class="p-4">
         <!-- Section: Social media -->
         <section class="mb-4">

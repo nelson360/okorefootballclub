@@ -5,21 +5,11 @@
         <li>
             <router-link to="/HomeComponent">Home</router-link>
         </li>
-        <li>
-            <router-link to="/AboutComponent">About</router-link>
-        </li>
-        <li>
-            <router-link to="/BloggComponent">blogg</router-link>
-        </li>
-        <li>
-            <router-link to="/MediaComponent"> media</router-link>
-        </li>
+       
         <li>
             <router-link to="/PlayersComponent">Team</router-link>
         </li>
-        <li>
-            <router-link to="/ScheduleComponent">schedule</router-link>
-        </li>
+        
         <li>
             <router-link to="/ContactComponent">contact</router-link>
         </li>

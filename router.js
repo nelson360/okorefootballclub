@@ -2,13 +2,14 @@ import { createRouter, createWebHistory } from "vue-router";
 import HeaderComponent from '/src/components/HeaderComponent.vue'
 
 import AdminComponent from '/src/MyAdmin/AdminComponent.vue'
-import BloggComponent from '/src/components/BloggComponent.vue'
+import BlogComponent from '/src/components/BlogComponent.vue'
 import PlayersComponent from '/src/components/PlayersComponent.vue'
 import ScheduleComponent from '/src/components/ScheduleComponent.vue'
 import MediaComponent from '/src/components/MediaComponent.vue'
 import ContactComponent from '/src/components/ContactComponent.vue'
 import AboutComponent from '/src/components/AboutComponent.vue'
 import HomeComponent from '/src/components/HomeComponent.vue'
+import PlayerComponent from '/src/components/PlayerComponent2021.vue'
 
 const routes = [
     {
@@ -25,12 +26,12 @@ const routes = [
       component:AdminComponent
     },
     {
-      path: '/BloggComponent',
+      path: '/BlogComponent',
       //name: 'CartComponent',
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: BloggComponent
+      component: BlogComponent
     },
     {
       path: '/PlayersComponent',
@@ -75,6 +76,9 @@ const routes = [
         {
           path: '/HomeComponent',
           component: HomeComponent
+        },{
+          path:'/PlayerComponent',
+          component:PlayerComponent
         }
   
   ]

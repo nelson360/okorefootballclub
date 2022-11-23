@@ -1,37 +1,24 @@
 <template>
 <div>
-    <h2>
-        players 2022/2023
-    </h2>
-    <div>
-        
-        <label for="exampleFormControlSelect1">SEASON</label><br>
-            <select class="form-control" id="exampleFormControlSelect1">
-                <option>2022/2023</option>
-                <option> <router-link to="/PlayerComponent2021">2021/2022</router-link></option>
-              
-            </select>
-    </div>
-    
+    <h2>players 2021/2022</h2>
 </div>
 
 <div>
     <div>
         Name: goalkeeper1<br>
-        <br>
         number:<br>
 
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
-        Name: goalkeeper2<br> <br>
+        Name: goalkeeper2<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
-        Name: goalkeeper3<br><br>
+        Name: goalkeeper3<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
 </div>
 
@@ -39,37 +26,37 @@
     <div>
         Name: defender1<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: defender2<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: defender3<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: defender4<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: defender5<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: defender6<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>pic
     <div>
         Name: defender7<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
 </div>
 
@@ -77,161 +64,164 @@
     <div>
         Name: midfield1<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
 
     </div>
     <div>
         Name: midfield1<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: midfield1<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div><br>
     <div>
         Name: midfield1<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: midfield1<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         number:<br>
         Name: midfield1<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: midfield1<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: midfield1<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: midfield1<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
 
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name:striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name:striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: striker<br>
         number:<br>
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div> coaches</div>
     <div>
-        evans openda<br>Headcoach<br>
+        Name:evans openda<br>
         <br>
-
-        <img alt="image lost" src="/pic/logo.png">
-    </div>
-    <div>
-        christopher omolo<br> Ass.Head coach<br>
        <br>
 
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
+    </div>
+    <div>
+        Name:christopher omolo<br>
+        team manager<br>
+        <br>
+
+        <img alt="mid1" src="/pic/logo.png">
     </div>
     <div>
         Name: Technical coach<br>
-        <br>
+        number:<br>
 
-        <img alt="image lost" src="/pic/logo.png">
+        <img alt="mid1" src="/pic/logo.png">
     </div>
 </div>
 </template>
 
+    
 <script>
 export default {
-    name: 'PlayersComponent',
+    name: 'PlayerComponent2021',
 
 }
 </script>
