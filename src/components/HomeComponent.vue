@@ -1,30 +1,14 @@
 <template>
-<p>fdfdf
+<AboutComponent />
 
-</p>
-<P>
-About
-<AboutComponent/>
-</P>
-<P>
-    Blog
-    <router-link to="/PlayersComponent"><button>team</button></router-link>
-    <BlogComponent/>
-</P>
-<P>
-    media
-    <MediaComponent/>
-</P>
-<p>
-    schedule
-    <ScheduleComponent/>
-    <SponsorsComponent/>
-</p>
+<MediaComponent />
+
+<ScheduleComponent />
+
+<BlogComponent />
+<SponsorsComponent />
 
 <BodyComponent />
-<p>
-    sponsors
-</p>
 </template>
 
 <script>
@@ -38,7 +22,12 @@ import SponsorsComponent from './SponsorsComponent.vue';
 export default {
     name: "HomeComponent",
     components: {
-        BodyComponent, AboutComponent, BlogComponent, ScheduleComponent, SponsorsComponent, MediaComponent,
+        BodyComponent,
+        AboutComponent,
+        BlogComponent,
+        ScheduleComponent,
+        SponsorsComponent,
+        MediaComponent,
     }
 }
 </script>

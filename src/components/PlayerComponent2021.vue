@@ -24,7 +24,7 @@
 
 <div>
     <div>
-        Name: defender1<br>
+        Billy Ochieng<br>
         number:<br>
         <img alt="mid1" src="/pic/logo.png">
     </div>

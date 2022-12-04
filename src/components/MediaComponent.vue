@@ -1,6 +1,7 @@
 <template>
-<p>
-    Media ::::::::::::::::::::::
+<br><br><br><hr>
+<p class="title underline">
+    Media
 </p>
 <img alt="" src="https://images.pexels.com/photos/5597396/pexels-photo-5597396.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 <img alt="" src="https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
@@ -17,3 +18,10 @@ export default {
 
 }
 </script>
+
+<style>
+.imagesize {
+    height: 200px;
+    width: 200px;
+}
+</style>

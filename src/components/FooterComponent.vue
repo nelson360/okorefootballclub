@@ -68,24 +68,20 @@
                     <h5 class="text-uppercase">Links</h5>
                     <ul class="list-unstyled mb-0">
                         <li>
-                            <a href="#!" class="text-white">Link 1</a>
+                            <a href="#!" class="text-white">Facebook</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 2</a>
+                            <a href="#!" class="text-white">Twitter</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 3</a>
+                            <a href="#!" class="text-white">Youtube</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 4</a>
+                            <a href="#!" class="text-white">Instagram</a>
                         </li>
                     </ul>
                 </MDBCol>
 
-                <MDBCol lg="3" md="6" class="mb-4 mb-md-0">
-                    <h5 class="text-uppercase">Links</h5>
-
-                </MDBCol>
 
             </MDBRow>
             <!--Grid row-->
@@ -96,7 +92,7 @@
     <!-- Copyright -->
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
         © 2022 Copyright:
-        <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+        <a class="text-white" href="https://okorefc.com/">okorefc.com</a>
     </div>
     <!-- Copyright -->
 </MDBFooter>

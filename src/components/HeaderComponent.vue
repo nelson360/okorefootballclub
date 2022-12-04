@@ -11,11 +11,16 @@
         </li>
         
         <li>
-            <router-link to="/ContactComponent">contact</router-link>
+            <router-link to="/ContactComponent">Contact</router-link>
+        </li>
+        <li>
+            
         </li>
         <RouterView />
     </ul>
+   
 </nav>
+
 </template>
 
 <script>
@@ -27,17 +32,20 @@ export default {
 
 <style>
 nav {
+   
     width: 100%;
     line-height: 1.4em;
 }
 
 ul {
     list-style: none;
+    
     display: block;
     width: 100%;
     margin: 0;
     padding: 0;
-    text-align: justify;
+    text-align: center;
+    
     margin-bottom: -1.4em;
 }
 
