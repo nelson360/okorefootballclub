@@ -2,7 +2,7 @@
 
 set - e
 
-npm run build
+ue-cli-service build
 
 cd dist
 
