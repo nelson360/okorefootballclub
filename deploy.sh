@@ -2,7 +2,7 @@
 
 set - e
 
-ue-cli-service build
+vue-cli-service build
 
 cd dist
 
