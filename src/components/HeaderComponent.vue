@@ -5,22 +5,21 @@
         <li>
             <router-link to="/HomeComponent">Home</router-link>
         </li>
-       
+
         <li>
             <router-link to="/PlayersComponent">Team</router-link>
         </li>
-        
+
         <li>
             <router-link to="/ContactComponent">Contact</router-link>
         </li>
         <li>
-            
-        </li>
-        <RouterView />
-    </ul>
-   
-</nav>
 
+        </li>
+       
+    </ul>
+
+</nav>
 </template>
 
 <script>
@@ -32,20 +31,20 @@ export default {
 
 <style>
 nav {
-   
+    position: absolute;
     width: 100%;
     line-height: 1.4em;
 }
 
 ul {
     list-style: none;
-    
+
     display: block;
     width: 100%;
     margin: 0;
     padding: 0;
     text-align: center;
-    
+
     margin-bottom: -1.4em;
 }
 
@@ -79,6 +78,7 @@ nav>a {
 html {
     position: relative;
     min-height: 100%;
+    min-width: 100%;
 }
 
 body {

@@ -3,13 +3,16 @@
 <div class="golden">
     golden youth okore
 </div>
+<div class="golden">FC</div>
+<div class="logo content"><img src="pic/logo.png" alt="logo"></div>
+
 <p class="title">
     About<br>
 </p>
 <p class="content">
-    is a youth league team ,based in kisumu Riat Airport.
+    Golden Youth Okore Football Club AKA 'Okore FC' is a youth league team currently playing in the men's Kisumu West Sub-County League,based in Kenya, Kisumu Riat,next to Kisumu International Airport.
 </p>
-<div class="logo"><img src="pic/logo.png" alt="logo"></div>
+
 </template>
 
 <script>
@@ -31,7 +34,6 @@ export default {
 
 .logo {
     position: relative;
-    z-index: 120%;
     left: 0px;
 }
 

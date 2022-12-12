@@ -1,14 +1,10 @@
 <template>
-<AboutComponent />
-
-<MediaComponent />
-
-<ScheduleComponent />
-
-<BlogComponent />
-<SponsorsComponent />
-
-<BodyComponent />
+<AboutComponent/>
+<MediaComponent/>
+<ScheduleComponent/>
+<BlogComponent/>
+<SponsorsComponent/>
+<BodyComponent/>
 </template>
 
 <script>
@@ -32,8 +28,8 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scopd>
 BodyComponent {
-    display: hidden;
+    display: hin;
 }
 </style>

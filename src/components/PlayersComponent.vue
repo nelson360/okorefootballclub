@@ -21,23 +21,21 @@
 
     <div class="col">
         Amos okello<br>
-        <br><img src="pic/logo.png">
-        <img alt="" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        <br><img src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
         <br>
 
-        <img alt="image lost" src="/https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
-    </div>
+       </div>
     <div class="col">
         Taribo West <br>
        <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="col">
         Madoadoa<br><br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
 </div>
 <hr>
@@ -47,35 +45,35 @@
 
     <div class="def">
         Billy Ochieng<br>
-        number:<br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        <br>
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="def">
         Godfrey Rowa<br>
-        number:<br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        <br>
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="def">
         Joseph Orwa<br>
-        number:<br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        <br>
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
 
     <div class="def">
         Name: defender5<br>
         number:<br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
 
     <div class="def">
         Sam Onyango<br>
-        number:<br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        <br>
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
 </div>
 <hr>
@@ -85,58 +83,58 @@
     <div class="midfielder">
         kennedy omondi<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
 
     </div>
     <div class="midfielder">
-        shadrack omondi<br>
+        Shadrack Omondi<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="midfielder">
-        stephen ochieng<br>
+        Stephen Ochieng<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div><br>
     <div class="midfielder">
-        kevin omamo<br>
+        Kevin Omamo<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="midfielder">
-        mavine onyango<br>
+        Mavine Onyango<br>
        <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="midfielder">
 
-        parry musa<br>
+        Parry Musa<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2219801/pexels-photo-2219801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="midfielder">
-        stivo achando<br>
+        Stivo Achando<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="midfielder">
-        mark owido<br>
+        Mark Owido<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="midfielder">
-        maxwell otieno<br>
+        Maxwell otieno<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
 
     </div>
 </div>
@@ -145,101 +143,101 @@
 <br><br>
 <div class="strikers">
     <div class="striker">
-        kevin omondi<br>
+        kevin Omondi<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
         Victor Okore<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        elly okello<br>
+        Elly Okello<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        tyson odongo<br>
+        Tyson Odongo<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        leonard ondu<br>
+        Leonard Ondu<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        naftally ekombe<br>
+        Naftally Ekombe<br>
        <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        milton odhiambo<br>
+        Milton Odhiambo<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/5470999/pexels-photo-5470999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        festus ouma<br>
+        Festus Ouma<br>
         
       <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/12002144/pexels-photo-12002144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        isack okoth<br>
+        Isack Okoth<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/12002144/pexels-photo-12002144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        johnson ochieng<br>
+        Johnson Ochieng<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/12002144/pexels-photo-12002144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        brian ondu<br>
+        Brian Ondu<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/12002144/pexels-photo-12002144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        humphrey Ochieng<br>
+        Humphrey Ochieng<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/12002144/pexels-photo-12002144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        fred otieno<br>
+        Fred Otieno<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/12002144/pexels-photo-12002144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
         Erick Omamo<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/12002144/pexels-photo-12002144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
-        austine mboya<br>
+        Austine Mboya<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/12002144/pexels-photo-12002144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="striker">
         Name: striker<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/12002144/pexels-photo-12002144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
 </div>
 <br><br><br><hr><br>
@@ -248,24 +246,24 @@
     
 
     <div class="coach">
-        evans openda<br>Headcoach<br>
+        Evans Openda<br>Headcoach<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/2848984/pexels-photo-2848984.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="coach">
-        christopher omolo
+        Christopher Omolo
         <br> Ass.Head coach<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/6077793/pexels-photo-6077793.jpeg">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
     <div class="coach">
         Name:
         <br> Technical coach<br>
         <br>
-        <img src="pic/logo.png">
-        <img alt="image lost" src="https://images.pexels.com/photos/14071176/pexels-photo-14071176.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        
+        <img alt="image lost" src="https://www.bing.com/th?id=OIP.2s7VxdmHEoDKji3gO_i-5QHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2">
     </div>
 
 </div>
@@ -344,9 +342,14 @@ export default {
     flex-basis: 100%;
 
 }
+.size{
+    height: 250px;
+    width: 250px;
+}
 .titlehead{
     color: green;
     font-size: 200%;
+    text-align: center;
     justify-content: center;
     text-transform: uppercase;
 
