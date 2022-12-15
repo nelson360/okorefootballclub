@@ -10,6 +10,7 @@ import ContactComponent from '/src/components/ContactComponent.vue'
 import AboutComponent from '/src/components/AboutComponent.vue'
 import HomeComponent from '/src/components/HomeComponent.vue'
 import PlayerComponent from '/src/components/PlayerComponent2021.vue'
+import NotFound from '/src/components/NotFound.vue'
 
 const routes = [
     {
@@ -18,7 +19,7 @@ const routes = [
       component: HeaderComponent
     },
     {
-      path: '/AboutComponent',
+      path: '/AdminComponent',
       //name: 'AboutView',
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
@@ -79,7 +80,10 @@ const routes = [
         },{
           path:'/PlayerComponent',
           component:PlayerComponent
-        }
+        },{ path: '/:pathMatch(.*)*', 
+        name: 'NotFound', 
+        component: NotFound },
+        { path: '/', redirect: { name: 'HomeComponent' } }
   
   ]
   

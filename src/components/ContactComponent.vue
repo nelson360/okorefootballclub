@@ -3,12 +3,7 @@
     contact component
 </p>
 <div>
-    <form>
-        <Label>Name</Label><input type="text" placeholder="name" class="sublabel"><br><br>
-        <Label>Email</Label><input type="text" placeholder="Email" class="sublabel"><br><br>
-        <Label>comment</Label><input type="text" placeholder="talk to your club" class="inputy"><br><br><br>
-        <input type="button" class="ttt" value="SUBMIT">
-    </form>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfErQQ6JTdkK1Olt17WXbiWlYGh7Rj-J0X46fby0FUnE0shEA/viewform?embedded=true" width="640" height="812" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 </template>
 

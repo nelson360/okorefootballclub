@@ -11,7 +11,7 @@
         <a href="#">ochunglo family</a>
         <img src="pic/logo.png">
     </div>
-    <div class="sponsor">
+    <div class="sponsor ">
        <a href="#">Pipeline Kisumu</a>
         <img src="pic/logo.png">
     </div>
@@ -42,4 +42,5 @@ export default {
     flex-shrink: 0;
     flex-basis: 200px;
 }
+
 </style>

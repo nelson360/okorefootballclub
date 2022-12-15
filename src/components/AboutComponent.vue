@@ -4,7 +4,7 @@
     golden youth okore
 </div>
 <div class="golden">FC</div>
-<div class="logo content"><img src="pic/logo.png" alt="logo"></div>
+
 
 <p class="title">
     About<br>
